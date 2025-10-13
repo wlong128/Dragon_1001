@@ -1,0 +1,15 @@
+#newsbox {
+    width: 385px;
+}
+#banner {
+    background-image: url(images/t1.jpg);
+    height: 116px;
+}
+#news {
+    background-image: url(images/t2.jpg);
+    padding: 0 40px;
+}
+#footer {
+    background-image: url(images/t3.jpg);
+    height: 67px;
+}
